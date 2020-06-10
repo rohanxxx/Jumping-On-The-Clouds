@@ -15,14 +15,6 @@ Problem:
     following two paths: 0 -> 2 -> 4 -> 6 or 0 -> 3 -> 4 -> 6. The first path
     takes 3 jumps while the second takes 4.
 
-Function Description:
-    
-     Complete the JumpingOnClouds function in the editor below. It should
-     return the minimum number of jumps required, as an integer.
-
-     JumpingOnClouds has the following parameter(s):
-     * c: an array of binary integers.
-
 Input Format:
 
     The first line contains an integer n, the total number of clouds. The
